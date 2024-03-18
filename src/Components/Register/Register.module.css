@@ -1,0 +1,13 @@
+.registerLeftTitle{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.title{
+    font-size: 50px;
+}
+.loginBtn{
+    background-color: #36A420;
+}
+.registerForm{
+    box-shadow: 0px 0px 17px 0px rgba(168,168,168,1);}
